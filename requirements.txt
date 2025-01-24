@@ -1,3 +1,4 @@
 streamlit
+streamlit_chat
 python-dotenv
 requests
